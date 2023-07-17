@@ -1,0 +1,1 @@
+{"zavg": 14, "xavg": 374, "yavg": 175, "defPitch": 1540, "defRoll": 1467, "defThrottle": 1560}
