@@ -1,6 +1,7 @@
 # Pluto_IIT_Ropar_Ch2
 
 Code for Inter IIT Tech Challenge - 2
+Challenge - 1, can be completed using this also.
 
 Use : Python 3.9+
 
